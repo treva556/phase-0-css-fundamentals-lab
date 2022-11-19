@@ -23,5 +23,8 @@
     "jsdom": "^18.1.0",
     "mocha": "^9.1.3",
     "mocha-multi": "^1.1.5"
+  },
+  "dependencies": {
+    "css-test": "^1.0.1"
   }
 }
